@@ -141,3 +141,7 @@ img {
 .flex-items > div {
   padding: 20px;
 }
+
+.cases img:hover {
+  opacity: 0.7;
+}
